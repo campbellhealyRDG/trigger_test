@@ -1,4 +1,4 @@
 ﻿# trigger_test
 
-Initial Testing of the Polling Function in Jenkins Every 2 minutes.
+Initial Testing of the Polling Function in Jenkins Every 2 minutes.  
 Change again.
